@@ -3,19 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tirthpatel13&label=Profile%20views&color=0e75b6&style=flat" alt="Tirthpatel13" /> </p>
 
-- 🔭 I’m currently working on **job finder**
+- 🔭 I’m a 4th year Computer Science student @Lassonde School of Engineering, York University located in Toronto, Ontario.
 
-- 🌱 I’m currently learning **Spring boot and Nodejs**
-
-- 👨‍💻 All of my projects are available at [I will add](I will add)
-
-- 💬 Ask me about **java**
+- 🌱 I’m currently learning about Compilers and Interpreters.
 
 - 📫 How to reach me **tp131101@gmail.com**
 
-- 📄 Know about my experiences [I will add it](I will add it)
-
-- ⚡ Fun fact **I am very concentrated**
+- ⚡ Fun fact: I am an extremely ambitious and organized person.
+Connect with me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
