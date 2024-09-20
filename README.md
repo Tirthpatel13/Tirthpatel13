@@ -10,7 +10,6 @@
 - 📫 How to reach me **tp131101@gmail.com**
 
 - ⚡ Fun fact: I am an extremely ambitious and organized person.
-Connect with me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
